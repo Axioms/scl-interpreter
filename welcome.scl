@@ -1,0 +1,19 @@
+function main is
+    display " welcome "
+    display " to "
+    display " SCL "
+    define a = 4
+    return a
+    define b = 5
+    return b
+    define c = 1
+    return c
+    set a = 5 - 2
+    return a
+    set b = 3 * 3
+    return b
+    set c = 4 / 2
+    return c
+endfun 
+    exit
+
